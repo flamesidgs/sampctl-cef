@@ -1,7 +1,7 @@
 {
     "user": "Susman",
     "repo": "sampctl-cef",
-    "include_path": "include",
+    "include_path": "server",
     "resources": [
         {
             "name": "^cef.so$",
